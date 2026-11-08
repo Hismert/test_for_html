@@ -1,0 +1,29 @@
+body{
+    background-color: #b1dee1;
+} 
+h1{
+    padding-left: 560px;
+    text-shadow: 3px 0px 5px black, 0 0 1em rgb(48, 77, 181);
+    font-size: 350%;
+}
+h2{
+    padding-left: 25px;
+    text-shadow: 3px 0px 5px black, 0 0 1em rgb(48, 77, 181);
+    font-size: 200%;
+    width: 1500px;
+    text-align: start
+}
+p{
+    padding-left:11px;
+    text-shadow: 3px 0px 7px black, 0 0 1em rgb(107, 132, 224);
+    font-size: 170%;
+    width: 1500px;
+    text-align: start
+}
+a{
+    padding-left:15px;
+    font-size: 170%;
+}
+img{
+    border: 4px solid #0c0c0c;
+}
